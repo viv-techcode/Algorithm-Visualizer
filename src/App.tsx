@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react'
-import { Activity, Layers, Share2, Play, Pause, RotateCcw, BarChart3, X, ChevronDown, GitBranch, Database, Network, ArrowDownNarrowWide } from 'lucide-react'
+import { Activity, Layers, Share2, Play, Pause, RotateCcw, BarChart3, ChevronDown, GitBranch, Database, Network, ArrowDownNarrowWide } from 'lucide-react'
 import { useAlgo } from './context/AlgoContext'
 import { 
   bubbleSortSteps, selectionSortSteps, insertionSortSteps, 

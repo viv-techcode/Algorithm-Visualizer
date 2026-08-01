@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useAlgo } from '../context/AlgoContext';
-import { Layers, RotateCcw, Share2 } from 'lucide-react';
+import { Layers,  } from 'lucide-react';
 import { clsx, type ClassValue } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { createPortal } from 'react-dom';
 import * as d3 from 'd3';
-import { Plus, RotateCcw, Share2, Trash2, ArrowRight, X, Search, Play, Wand2 } from 'lucide-react';
+import { Plus, RotateCcw, Share2, Trash2, ArrowRight, X, Search,  Wand2 } from 'lucide-react';
 import { useAlgo } from '../context/AlgoContext';
 import { motion, AnimatePresence } from 'framer-motion';
 import { clsx, type ClassValue } from 'clsx';
